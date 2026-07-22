@@ -2,6 +2,10 @@
 
 **A production multi-asset decision-intelligence platform combining quantitative finance, grounded AI retrieval, automated data pipelines, and serverless web delivery.**
 
+[![Live Product](https://img.shields.io/badge/Product-Live-brightgreen)](https://cryptoweeklies.com)
+![Architecture](https://img.shields.io/badge/Architecture-Serverless%20Edge-blue)
+![Production Source](https://img.shields.io/badge/Production%20Source-Private-lightgrey)
+
 [Explore the live product](https://cryptoweeklies.com) | [View the research](https://scholar.google.com/citations?user=74xa2moAAAAJ) | [Connect with Himanshu Joshi](https://www.linkedin.com/in/hjoshi1)
 
 > This repository is the public technical case study for CryptoWeeklies. It documents the product, architecture, engineering decisions, and selected non-proprietary demonstrations. Production source code, quantitative-model implementations, deployment configuration, and credentials remain private.
@@ -21,6 +25,12 @@ I conceived, designed, engineered, and operate the platform end to end: financia
 - Delivers a responsive browser and mobile experience using HTML, CSS, JavaScript, and Plotly.
 
 The live terminal provides searchable coverage across crypto, AI stocks, quantum stocks, Bitcoin equities, and ETFs: [cryptoweeklies.com](https://cryptoweeklies.com).
+
+## Product preview
+
+[![CryptoWeeklies multi-asset quant terminal showing the Crypto Galaxy decision interface](assets/cryptoweeklies-product-preview.png)](https://cryptoweeklies.com)
+
+*Live Crypto Galaxy interface. Select the image to open the production product.*
 
 ## Architecture at a glance
 
