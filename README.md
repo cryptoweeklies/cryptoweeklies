@@ -2,11 +2,11 @@
 
 **A production multi-asset decision-intelligence platform combining quantitative finance, grounded AI retrieval, automated data pipelines, and serverless web delivery.**
 
-[![Live Product](https://img.shields.io/badge/Product-Live-brightgreen)](https://cryptoweeklies.com)
-![Architecture](https://img.shields.io/badge/Architecture-Serverless%20Edge-blue)
-![Production Source](https://img.shields.io/badge/Production%20Source-Private-lightgrey)
+[![Live Product](https://img.shields.io/badge/Live%20Product-CryptoWeeklies-brightgreen?logo=googlechrome&logoColor=white)](https://cryptoweeklies.com)
+[![Research Publications](https://img.shields.io/badge/Research-Google%20Scholar-blue?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=74xa2moAAAAJ)
+[![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-Himanshu%20Joshi-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hjoshi1)
 
-[Explore the live product](https://cryptoweeklies.com) | [View the research](https://scholar.google.com/citations?user=74xa2moAAAAJ) | [Connect with Himanshu Joshi](https://www.linkedin.com/in/hjoshi1)
+[Explore Live Terminal](https://cryptoweeklies.com) • [Read Peer-Reviewed Papers](https://scholar.google.com/citations?user=74xa2moAAAAJ) • [Connect on LinkedIn](https://www.linkedin.com/in/hjoshi1)
 
 > This repository is the public technical case study for CryptoWeeklies. It documents the product, architecture, engineering decisions, and selected non-proprietary demonstrations. Production source code, quantitative-model implementations, deployment configuration, and credentials remain private.
 
